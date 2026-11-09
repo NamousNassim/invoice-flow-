@@ -2,7 +2,7 @@
 
 **InvoiceFlow Core** is a command-line domain application built with plain Java.
 
-It is intentionally developed without:
+It is intentionally developed without: AI
 
 * Spring
 * A database
